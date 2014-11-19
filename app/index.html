@@ -2,7 +2,7 @@
 <!--[if lt IE 7]>      <html lang="en" ng-app="dating" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html lang="en" ng-app="dating" class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html lang="en" ng-app="dating" class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html lang="en" ng-app="dating" class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" ng-app="datingApp" class="no-js"> <!--<![endif]-->
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,11 +21,11 @@
     <li><a href="#/looking-for">Who are you looking for?</a></li>
     <li><a href="#/preferences">What kind of things do you like?</a></li>
     <li><a href="#/dashboard">Dashboard</a></li>
-    <li><a href="#/account">Your account</a></li>
-    <li><a href="#/profile">User profile</a></li>
+    <li><a href="#/my-account">Your account</a></li>
+    <li><a href="#/user-profile">User profile</a></li>
     <li><a href="#/search">Search</a></li>
     <li><a href="#/messages">Messages overview</a></li>
-    <li><a href="#/message">Message detail</a></li>
+    <li><a href="#/message/1">Message detail</a></li>
   </ul>
 
   <!--[if lt IE 7]>
@@ -34,16 +34,20 @@
 
   <div ng-view></div>
 
-  <div>Angular seed app: v<span app-version></span></div>
-
   <!-- In production use:
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
   -->
   <script src="bower_components/angular/angular.js"></script>
   <script src="bower_components/angular-route/angular-route.js"></script>
   <script src="app.js"></script>
-  <script src="src/controllers.js"></script>
-  <script src="src/about/controller.js"></script>
+  <script src="src/about-you/controller.js"></script>
+  <script src="src/dashboard/controller.js"></script>
+  <script src="src/looking-for/controller.js"></script>
+  <script src="src/messages/controller.js"></script>
+  <script src="src/my-account/controller.js"></script>
   <script src="src/photos/controller.js"></script>
+  <script src="src/preferences/controller.js"></script>
+  <script src="src/search/controller.js"></script>
+  <script src="src/user-profile/controller.js"></script>
 </body>
 </html>
