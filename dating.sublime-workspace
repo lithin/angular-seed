@@ -1,0 +1,620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"marker_data"
+			],
+			[
+				"ima",
+				"imager_instance"
+			],
+			[
+				"ch",
+				"changeHashInURL"
+			],
+			[
+				"page_t",
+				"page_tab_input"
+			],
+			[
+				"current",
+				"current_breakpoint"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"i",
+				"initialized"
+			],
+			[
+				"in",
+				"inputs"
+			],
+			[
+				"ini",
+				"initialized"
+			],
+			[
+				"map",
+				"map_centre"
+			],
+			[
+				"ma",
+				"map_centre"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"add",
+				"addInfoWindow"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"Goo",
+				"GoogleMap"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"soc",
+				"social_link"
+			],
+			[
+				"icon",
+				"icon_on_right"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"Social",
+				"SocialWidgets"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"sha",
+				"share_hash"
+			],
+			[
+				"font-s",
+				"font-size-modifier"
+			],
+			[
+				"di",
+				"disabled	Attr"
+			],
+			[
+				"full",
+				"full_screen_styles"
+			],
+			[
+				"sty",
+				"stylers"
+			],
+			[
+				"la",
+				"labels"
+			],
+			[
+				"tra",
+				"transition"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rend",
+				"Preferences: Settings - Default"
+			],
+			[
+				"jsoin",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 371.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/AnnaD/Workspace/dating"
+	],
+	"file_history":
+	[
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/gigya.less",
+		"/Users/AnnaD/Workspace/miyagi/vendor/phpunit/phpunit/Tests/TextUI/group-isolation.phpt",
+		"/Users/AnnaD/Workspace/miyagi/web-src/Gruntfile.js",
+		"/Users/AnnaD/Workspace/miyagi/vendor/timeoutdigital/web-commons/src/TimeOut/Bundle/Web/GigyaBundle/Controller/UserController.php",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/maps.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/tests/unit/modules/tabsSpec.js",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Common/Tabs/_panels.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/feature_nav.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/feature.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/elements/tables.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/modules/social_widgets.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/modules/drawer.js",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Common/Tabs/tabs.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/core/client.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/tests/unit/modules/gigya/gigya_log_Spec.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/tests/unit/loaderSpec.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/modules/images.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/modules/tabs.js",
+		"/Users/AnnaD/Workspace/miyagi/app/Resources/views/_drawer.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/vendor/mockery/mockery/library/Mockery/Matcher/MatcherAbstract.php",
+		"/Users/AnnaD/Workspace/miyagi/web-src/karma.conf.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/config/config.js",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Resources/views/Zone/Map/_mapLayout.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/vendor/leafo/lessphp/tests/inputs/compile_on_mixin.less",
+		"/Users/AnnaD/Workspace/miyagi/app/console",
+		"/Users/AnnaD/Workspace/miyagi/vendor/guzzle/guzzle/src/Guzzle/Service/ConfigLoaderInterface.php",
+		"/Users/AnnaD/Workspace/miyagi/mockserver/__files/venue/graffiti/body-us-lasvegas-search-cLWwJ.json",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Resources/views/Tile/Map/_mapTile.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/tests/unit/clientSpec.js",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Resources/config/config.yml",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Controller/PageController.php",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Resources/views/Zone/Gallery/_zone_A_with_ads.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/modules/maps.js",
+		"/Users/AnnaD/Workspace/miyagi/vendor/leafo/lessphp/Makefile",
+		"/Users/AnnaD/Workspace/miyagi/app/Resources/views/_map.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/elements/hero.less",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Venue/index.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Resources/views/Page/_hub.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/app/config/parameters.ini",
+		"/Users/AnnaD/Workspace/miyagi/vendor/phpunit/phpunit/build/phar-autoload.php.in",
+		"/Users/AnnaD/Workspace/miyagi/web-src/package.json",
+		"/Users/AnnaD/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/ngapp/lists/listTiles.html",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Event/index.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Resources/views/Page/index.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/search_tiles.less",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Controller/VenueController.php",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Common/Tabs/_details.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/tiles.less",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Resources/views/layout.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/elements/hero_announcement.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/listings.less",
+		"/Users/AnnaD/Workspace/miyagi/app/Resources/views/_hero.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/app/config/config_test.yml",
+		"/Users/AnnaD/Workspace/miyagi/app/config/config_qa.yml",
+		"/Users/AnnaD/Workspace/miyagi/app/config/config_prod.yml",
+		"/Users/AnnaD/Workspace/miyagi/app/config/config_dev.yml",
+		"/Users/AnnaD/Workspace/miyagi/app/config/config_beta.yml",
+		"/Users/AnnaD/Workspace/miyagi/app/config/config.yml",
+		"/Users/AnnaD/Workspace/miyagi/web/config.php",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Common/Tabs/to_world_panels.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Venue/to_world_index.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/fonts/TimeOut_Icons/timeout-icons.svg",
+		"/Users/AnnaD/Workspace/miyagi/vendor/phpunit/phpunit/PHPUnit/Extensions/TicketListener.php",
+		"/Users/AnnaD/Workspace/miyagi/web/dist/dev/css/timeout.css",
+		"/Users/AnnaD/Workspace/miyagi/vendor/guzzle/guzzle/src/Guzzle/Http/Exception/HttpException.php",
+		"/Users/AnnaD/Workspace/miyagi/web-src/tests/helpers.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/lib/imager.js",
+		"/Users/AnnaD/Workspace/miyagi/vendor/doctrine/orm/docs/en/reference/inheritance-mapping.rst",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/config/icons.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/tabs.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/elements/filter_button_group.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/drawer.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/search.less",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Common/Tabs/_world_details.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Common/to_world_base.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/World/Venue/to_world_index.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/timeout.less",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Venue/tow_index.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources/views/Common/tow_base.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/inspire.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/modules/inspire.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/swipey_tile.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/modules/swipey_tiles.js",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Resources/views/Inspire/index.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/vendor/symfony/symfony/src/Symfony/Component/HttpKernel/HttpCache/StoreInterface.php",
+		"/Users/AnnaD/Workspace/miyagi/vendor/timeoutdigital/php-commons/src/TimeOut/Component/Routing/Slug/Rule/Exceptions/RuleExceptionInterface.php",
+		"/Users/AnnaD/Workspace/miyagi/vendor/mockery/mockery/library/Mockery/Exception/RuntimeException.php",
+		"/Users/AnnaD/Workspace/miyagi/web-src/README.md",
+		"/Users/AnnaD/Workspace/miyagi/vendor/phpunit/php-token-stream/Tests/_files/classInScopedNamespace.php",
+		"/Users/AnnaD/Workspace/miyagi/vendor/phpunit/phpunit/PHPUnit/Framework/Constraint/IsNull.php",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/CategorisationBundle/TimeOutCategorisationBundle.php",
+		"/Users/AnnaD/Workspace/miyagi/mockserver/__files/venue/iws/body-Content-venue-206067-en_US-z7KhN.json",
+		"/Users/AnnaD/Workspace/miyagi/vendor/timeoutdigital/web-commons/src/TimeOut/Bundle/Web/SiteSettingsBundle/Resources/config/sites/config.srilanka.en.yml",
+		"/Users/AnnaD/Workspace/miyagi/vendor/phpunit/phpunit-mock-objects/Tests/MockObject/invocation_object_clone_object.phpt",
+		"/Users/AnnaD/Workspace/miyagi/vendor/behat/behat/features/closures/instep_call.feature",
+		"/Users/AnnaD/Workspace/miyagi/index.html",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Tests/Unit/Component/Factory/ZoneLayoutStrategy/PackageLayoutStrategyTest.php",
+		"/Users/AnnaD/Workspace/miyagi/vendor/phpunit/php-code-coverage/Tests/_files/source_with_ignore.php",
+		"/Users/AnnaD/Workspace/miyagi/app/SymfonyRequirements.php",
+		"/Users/AnnaD/Workspace/miyagi/web-src/rjs.conf.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/ngapp/ng-timeout-bootstrap.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/ngapp/inspire/inspireController.js",
+		"/Users/AnnaD/Workspace/miyagi/web/dist/dev/js/ngapp/inspire/inspireController.js",
+		"/Users/AnnaD/Workspace/miyagi/vendor/behat/symfony2-extension/testapp/src/Behat/Sf2DemoBundle/Features/kernel_access.feature",
+		"/Users/AnnaD/Workspace/miyagi/vendor/timeoutdigital/web-commons/src/TimeOut/Bundle/Web/ContentBundle/Component/ContentTypes/Miyagi/Traits/DetailsTrait.php",
+		"/Users/AnnaD/Workspace/miyagi/app/Resources/views/_navigation.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/ngapp/search/searchBar.html",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/search_filters.less",
+		"/Users/AnnaD/Workspace/miyagi/miyagi.sublime-project",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/ngapp/templates.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules/booking_widget.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/core/header.less",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/core/navigation.js",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/js/modules/slider.js",
+		"/Users/AnnaD/Workspace/miyagi/app/Resources/views/base.html.twig",
+		"/Users/AnnaD/Workspace/miyagi/web-src/app/less/pages/two-cols.less",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/TimeOutPageBundle.php",
+		"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/PageBundle/Resources/views/Page/_feature.html.twig",
+		"/private/etc/hosts"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules",
+			"/Users/AnnaD/Workspace/miyagi/web-src/app/less",
+			"/Users/AnnaD/Workspace/miyagi/src/TimeOut/Bundle/Web/StaticPageBundle/Resources",
+			"/Users/AnnaD/Workspace/miyagi/app/Resources/views",
+			"/Users/AnnaD/Workspace/miyagi/web-src/tests",
+			"/Users/AnnaD/Workspace/miyagi/web-src/tests/unit",
+			"/Users/AnnaD/Workspace/miyagi/web-src",
+			"/Users/AnnaD/Workspace/miyagi/web-src/app/*.js",
+			"/Users/AnnaD/Workspace/miyagi/web-src/app/less",
+			"/Users/AnnaD/Workspace/miyagi/app/Resources",
+			"/Users/AnnaD/Workspace/miyagi/web-src/app/js",
+			"/Users/AnnaD/Workspace/miyagi/web-src/app/less",
+			"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules",
+			"/Users/AnnaD/Workspace/miyagi/web-src/app/less",
+			"/Users/AnnaD/Workspace/miyagi/vendor/timeoutdigital/web-commons/src/TimeOut/Bundle/Web/ContentBundle/Component/ContentTypes/Miyagi/Traits",
+			"/Users/AnnaD/Workspace/miyagi/web-src/app/less/modules",
+			"/Users/AnnaD/Workspace/miyagi/web-src/app/less",
+			"/Users/AnnaD/Workspace/miyagi/app/Resources/views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ratio",
+			"feature-item__column--image",
+			"ratio",
+			"promo_list",
+			"feature-item__column",
+			"feature_item__column",
+			"tile__image_wrapper",
+			"console",
+			"listing",
+			"listinh",
+			"listing_detail",
+			"listing_detial",
+			"listing_details",
+			"tab__panel",
+			"load",
+			"');\n",
+			"initializ",
+			"create",
+			"sand",
+			"sandbox",
+			"mock",
+			"sinon.mock",
+			"mock",
+			"toggleTabInputTypes",
+			">>>",
+			"change",
+			"addListeners",
+			"525",
+			"venue_map",
+			"GoogleMap",
+			"default-b",
+			"tab__pa",
+			"tab__panel",
+			"tabs__panel",
+			"listenForTabChange",
+			"vote-button",
+			"();",
+			".make-md",
+			".icon_right",
+			".icon_",
+			"city-link",
+			"city",
+			"float: ri",
+			"tile__cont",
+			"tile__con",
+			"mx_panel",
+			".tile__image_wrapper",
+			"load",
+			"panel",
+			"feature",
+			"feature-item",
+			"feature__item",
+			"feature-item",
+			"feature_item",
+			"updateurl",
+			"getcanonical",
+			"currency",
+			"curre",
+			"filter",
+			"row",
+			"tile__desc",
+			"search_page",
+			"terms",
+			".hidden",
+			"hidden.",
+			"macro"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 257.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "dating.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gigya",
+				"web-src/app/js/modules/gigya/gigya.js"
+			],
+			[
+				"tabsspec.js",
+				"web-src/tests/unit/modules/tabsSpec.js"
+			],
+			[
+				"_map",
+				"app/Resources/views/_map.html.twig"
+			],
+			[
+				"config",
+				"web-src/app/js/config/config.js"
+			],
+			[
+				"clie",
+				"web-src/app/js/core/client.js"
+			],
+			[
+				"karma",
+				"web-src/karma.conf.js"
+			],
+			[
+				"maps",
+				"web-src/app/less/modules/maps.less"
+			],
+			[
+				"paramete",
+				"app/config/parameters.ini"
+			],
+			[
+				"hero",
+				"app/Resources/views/_hero.html.twig"
+			],
+			[
+				"tile",
+				"web-src/app/less/modules/tiles.less"
+			],
+			[
+				"image",
+				"web-src/app/js/modules/images.js"
+			],
+			[
+				"web-src/app/less/modules/search_tiles.less",
+				"web-src/app/less/modules/search_tiles.less"
+			],
+			[
+				"inspire",
+				"web-src/app/js/modules/inspire.js"
+			],
+			[
+				"timeout.css",
+				"web/dist/dev/css/timeout.css"
+			],
+			[
+				"icons.less",
+				"web-src/app/less/config/icons.less"
+			],
+			[
+				"swipeyless",
+				"web-src/app/less/modules/swipey_tile.less"
+			],
+			[
+				"swipeyjs",
+				"web-src/app/js/modules/swipey_tiles.js"
+			],
+			[
+				"inspirein",
+				"src/TimeOut/Bundle/Web/PageBundle/Resources/views/Inspire/index.html.twig"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 416.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
